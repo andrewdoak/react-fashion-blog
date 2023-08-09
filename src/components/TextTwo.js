@@ -1,0 +1,6 @@
+export default function TextTwo (props) {
+    return (
+        <p>Selfies gluten-free sunt. Ethical distillery esse duis, quis delectus anim lomo vexillologist migas. Tattooed in kombucha heirloom mollit twee gastropub. Forage cold-pressed non consequat eiusmod. Sustainable et organic, four loko kale chips tumeric poutine green juice. In ut plaid, taxidermy before they sold out godard kale chips pok pok lo-fi mollit. Vero biodiesel cillum veniam, eu ugh laboris tousled chambray gentrify. Glossier sriracha esse flexitarian. Magna banh mi slow-carb tofu, schlitz poke chartreuse deep-v normcore excepteur pariatur actually. Brooklyn blog in nisi seitan vice crucifix health goth tote bag irony magna id everyday carry.  In ut plaid, taxidermy before they sold out godard kale chips pok pok lo-fi mollit. Vero biodiesel cillum veniam, eu ugh laboris tousled chambray gentrify. Forage cold-pressed non consequat eiusmod. Sustainable et organic, four loko kale chips tumeric poutine green juice. In ut plaid, taxidermy before they sold out godard kale chips pok pok lo-fi mollit. Ethical aliquip health goth, irure lumbersexual assumenda vegan fugiat aute meditation. Fanny pack sint keffiyeh trust fund. 
+        </p>
+    )
+  }

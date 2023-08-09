@@ -1,0 +1,5 @@
+export default function TextOne (props) {
+    return (
+        <p>Cray Plaid ipsum Gastropub cornhole semiotics labore. Vinyl eiusmod pickled, commodo ex typewriter humblebrag authentic farm-to-table. In forage schlitz brunch, fingerstache readymade chartreuse echo park kickstarter pok pok bushwick. Sustainable biodiesel cloud bread banh mi, beard cardigan sed. Phrases forage bicycle rights, bushwick quinoa messenger bag williamsburg chambray tofu succulents. Mixtape mollit unicorn irure, non et irony quinoa. Brunch woke consectetur, in dreamcatcher small batch coloring book flexitarian minim nostrud. Shoreditch biodiesel cillum typewriter coloring book seitan. Pabst banjo offal, locavore selvage mustache franzen crucifix heirloom. Art party cardigan fam copper mug. Tote bag nostrud sed, leggings wolf tofu venmo readymade biodiesel meditation bushwick. Blue bottle everyday carry unicorn, readymade meggings ramps glossier distillery 8-bit qui jianbing enamel pin. Gochujang bespoke sustainable gluten-free aliqua. Dolor ethical labore cold-pressed commodo banjo food truck retro man bun.</p>
+    )
+  }
