@@ -22,3 +22,8 @@ function App() {
 }
 
 export default App;
+
+/* 
+NETLIFY DEPLOY
+npm run build
+*/
