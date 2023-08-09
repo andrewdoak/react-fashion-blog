@@ -7,4 +7,4 @@
 [HTML Blog](https://andrewdoak.github.io/fashion-blog/).
 
 **GitHub Repo (for HTML Site)**    
-[HTML Site](https://andrewdoak.github.io/fashion-blog/).
+[HTML Repo](https://andrewdoak.github.io/fashion-blog/).
